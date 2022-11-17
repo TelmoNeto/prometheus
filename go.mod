@@ -27,7 +27,7 @@ require (
 	github.com/gophercloud/gophercloud v1.0.0
 	github.com/grafana/regexp v0.0.0-20221005093135-b4c2bcb0a4b6
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/hashicorp/consul/api v1.15.3
+	github.com/hashicorp/consul/api v1.16.0
 	github.com/hashicorp/nomad/api v0.0.0-20221114190813-65b3d01aabe3
 	github.com/hetznercloud/hcloud-go v1.37.0
 	github.com/ionos-cloud/sdk-go/v6 v6.1.3
@@ -85,8 +85,6 @@ require (
 require (
 	cloud.google.com/go/compute v1.12.1 // indirect
 	cloud.google.com/go/compute/metadata v0.2.1 // indirect
-	github.com/PuerkitoBio/purell v1.2.0 // indirect
-	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/cncf/xds/go v0.0.0-20220520190051-1e77728a1eaa // indirect
 	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
@@ -183,7 +181,6 @@ require (
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gotest.tools/v3 v3.0.3 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
